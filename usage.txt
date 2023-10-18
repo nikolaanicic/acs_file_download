@@ -1,0 +1,3 @@
+download 'url' -d=directory
+
+ako -d nije naveden skine file tree u trenutni direktorijum
